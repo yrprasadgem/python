@@ -1,0 +1,3 @@
+How to login to jupyter notebook???
+
+just run "jupyter notebook" from bash terminal it will staart the another browser window:
